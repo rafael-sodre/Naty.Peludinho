@@ -1,0 +1,9 @@
+D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Business\bin\Debug\netcoreapp3.1\Naty.Peludinho.Business.deps.json
+D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Business\bin\Debug\netcoreapp3.1\Naty.Peludinho.Business.dll
+D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Business\bin\Debug\netcoreapp3.1\Naty.Peludinho.Business.pdb
+D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Business\obj\Debug\netcoreapp3.1\Naty.Peludinho.Business.csprojAssemblyReference.cache
+D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Business\obj\Debug\netcoreapp3.1\Naty.Peludinho.Business.AssemblyInfoInputs.cache
+D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Business\obj\Debug\netcoreapp3.1\Naty.Peludinho.Business.AssemblyInfo.cs
+D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Business\obj\Debug\netcoreapp3.1\Naty.Peludinho.Business.csproj.CoreCompileInputs.cache
+D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Business\obj\Debug\netcoreapp3.1\Naty.Peludinho.Business.dll
+D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Business\obj\Debug\netcoreapp3.1\Naty.Peludinho.Business.pdb
