@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naty.Peludinho.Api", "src\Naty.Peludinho.Api\Naty.Peludinho.Api.csproj", "{E150898E-A256-4601-B00A-C69C1BB6E89D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Naty.Peludinho.Api", "src\Naty.Peludinho.Api\Naty.Peludinho.Api.csproj", "{E150898E-A256-4601-B00A-C69C1BB6E89D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naty.Peludinho.Business", "src\Naty.Peludinho.Business\Naty.Peludinho.Business.csproj", "{C5A2B1A1-6010-4EBE-B55C-4733A8311733}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Naty.Peludinho.Business", "src\Naty.Peludinho.Business\Naty.Peludinho.Business.csproj", "{C5A2B1A1-6010-4EBE-B55C-4733A8311733}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naty.Peludinho.Data", "src\Naty.Peludinho.Data\Naty.Peludinho.Data.csproj", "{B7B64064-A021-4CBF-8326-DCE0A0E7569C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Naty.Peludinho.Data", "src\Naty.Peludinho.Data\Naty.Peludinho.Data.csproj", "{B7B64064-A021-4CBF-8326-DCE0A0E7569C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

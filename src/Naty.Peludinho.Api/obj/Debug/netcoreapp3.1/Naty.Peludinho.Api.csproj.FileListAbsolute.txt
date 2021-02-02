@@ -7,9 +7,11 @@ D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Api\bin\Debug\netcoreapp3.1\Naty.Pelud
 D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Api\bin\Debug\netcoreapp3.1\Naty.Peludinho.Api.runtimeconfig.dev.json
 D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Api\bin\Debug\netcoreapp3.1\Naty.Peludinho.Api.dll
 D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Api\bin\Debug\netcoreapp3.1\Naty.Peludinho.Api.pdb
+D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Api\bin\Debug\netcoreapp3.1\Humanizer.dll
 D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
 D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
 D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
 D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
@@ -49,11 +51,13 @@ D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Api\bin\Debug\netcoreapp3.1\runtimes\w
 D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Api\bin\Debug\netcoreapp3.1\Naty.Peludinho.Business.dll
 D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Api\bin\Debug\netcoreapp3.1\Naty.Peludinho.Data.dll
-D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Api\bin\Debug\netcoreapp3.1\Naty.Peludinho.Data.pdb
 D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Api\bin\Debug\netcoreapp3.1\Naty.Peludinho.Business.pdb
+D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Api\bin\Debug\netcoreapp3.1\Naty.Peludinho.Data.pdb
 D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Api\obj\Debug\netcoreapp3.1\Naty.Peludinho.Api.csprojAssemblyReference.cache
 D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Api\obj\Debug\netcoreapp3.1\Naty.Peludinho.Api.AssemblyInfoInputs.cache
 D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Api\obj\Debug\netcoreapp3.1\Naty.Peludinho.Api.AssemblyInfo.cs
+D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Api\obj\Debug\netcoreapp3.1\Naty.Peludinho.Api.csproj.CoreCompileInputs.cache
+D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Api\obj\Debug\netcoreapp3.1\Naty.Peludinho.Api.MvcApplicationPartsAssemblyInfo.cache
 D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Api\obj\Debug\netcoreapp3.1\Naty.Peludinho.Api.RazorTargetAssemblyInfo.cache
 D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Api\obj\Debug\netcoreapp3.1\Naty.Peludinho.Api.csproj.CopyComplete
 D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Api\obj\Debug\netcoreapp3.1\staticwebassets\Naty.Peludinho.Api.StaticWebAssets.Manifest.cache
@@ -61,7 +65,3 @@ D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Api\obj\Debug\netcoreapp3.1\staticweba
 D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Api\obj\Debug\netcoreapp3.1\Naty.Peludinho.Api.dll
 D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Api\obj\Debug\netcoreapp3.1\Naty.Peludinho.Api.pdb
 D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Api\obj\Debug\netcoreapp3.1\Naty.Peludinho.Api.genruntimeconfig.cache
-D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Api\bin\Debug\netcoreapp3.1\Humanizer.dll
-D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Api\obj\Debug\netcoreapp3.1\Naty.Peludinho.Api.csproj.CoreCompileInputs.cache
-D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Api\obj\Debug\netcoreapp3.1\Naty.Peludinho.Api.MvcApplicationPartsAssemblyInfo.cache

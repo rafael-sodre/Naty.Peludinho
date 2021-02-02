@@ -7,5 +7,6 @@ namespace Naty.Peludinho.Business.Interfaces
 {
     public interface IPessoaRepository : IRepository<Pessoa>
     {
+        Task<Pessoa> ObterPessoaEndereco(Guid id);
     }
 }

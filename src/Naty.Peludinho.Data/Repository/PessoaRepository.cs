@@ -13,5 +13,12 @@ namespace Naty.Peludinho.Data.Repository
     public class PessoaRepository : Repository<Pessoa>, IPessoaRepository
     {
         public PessoaRepository(NatyPeludinhoDbContext context) : base(context) { }
+
+        public async Task<Pessoa> ObterPessoaEndereco(Guid enderecoId)
+        {
+            return await Db.Pessoas.AsNoTracking()
+                .Include(c => c.Endereco)
+                .FirstOrDefaultAsync(c => c.Id == enderecoId);
+        }
     }
 }

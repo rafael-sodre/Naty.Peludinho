@@ -6,7 +6,7 @@ D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Data\bin\Debug\netcoreapp3.1\Naty.Pelu
 D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Data\obj\Debug\netcoreapp3.1\Naty.Peludinho.Data.csprojAssemblyReference.cache
 D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Data\bin\Debug\netcoreapp3.1\Naty.Peludinho.Data.pdb
 D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Data\bin\Debug\netcoreapp3.1\Naty.Peludinho.Business.pdb
-D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Data\obj\Debug\netcoreapp3.1\Naty.Peludinho.Data.csproj.CoreCompileInputs.cache
 D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Data\obj\Debug\netcoreapp3.1\Naty.Peludinho.Data.csproj.CopyComplete
 D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Data\obj\Debug\netcoreapp3.1\Naty.Peludinho.Data.dll
 D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Data\obj\Debug\netcoreapp3.1\Naty.Peludinho.Data.pdb
+D:\Labs\Naty.Peludinho\src\Naty.Peludinho.Data\obj\Debug\netcoreapp3.1\Naty.Peludinho.Data.csproj.CoreCompileInputs.cache

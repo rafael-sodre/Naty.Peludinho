@@ -6,7 +6,7 @@ namespace Naty.Peludinho.Business.Models
 {
     public class Endereco : Entity
     {
-        public Guid EnderecoId { get; set; }
+        public Guid PessoaId { get; set; }
         public string Logradouro { get; set; }
         public string Numero { get; set; }
         public string Complemento { get; set; }

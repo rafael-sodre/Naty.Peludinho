@@ -34,7 +34,7 @@ namespace Naty.Peludinho.Data.Mapping
             // 1 : N => Pessoa : Animais
             builder.HasMany(p => p.Animais)
                 .WithOne(a => a.Pessoa)
-                .HasForeignKey(a => a.Pessoa);
+                .HasForeignKey(a => a.PessoaId);
 
             builder.ToTable("Pessoas");
         }
